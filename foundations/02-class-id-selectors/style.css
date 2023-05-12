@@ -1,0 +1,18 @@
+.odd{
+    background-color: salmon;
+}
+
+#two {
+    color: blue;
+    font-size: 32px;
+}
+
+#four {
+    background-color: limegreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cool{
+    font-size: 32px;
+}
